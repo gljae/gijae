@@ -10,6 +10,5 @@
 </div>
 
 <div align="center">
-	[![Solved.ac
-namgijae](http://mazassumnida.wtf/api/v2/generate_badge?boj=skarlwo111)](https://solved.ac/skarlwo111)
+	[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skarlwo111)](https://solved.ac/skarlwo111)
 </div>
