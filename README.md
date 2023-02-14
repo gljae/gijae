@@ -11,5 +11,5 @@
 
 <div align="center">
 	[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skarlwo111)](https://solved.ac/skarlwo111)
+namgijae](http://mazassumnida.wtf/api/v2/generate_badge?boj=skarlwo111)](https://solved.ac/skarlwo111)
 </div>
