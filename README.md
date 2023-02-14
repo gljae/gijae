@@ -1,2 +1,1 @@
-# gijae
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=GiJae%20Nam&fontSize=90&fontAlign=65&fontAlignY=40&desc=Game&descSize=30&descAlign=80&descAlignY=60)" />
