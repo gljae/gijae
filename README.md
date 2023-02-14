@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hello%20Nam&fontSize=90&fontAlign=65&fontAlignY=40&desc=I'm GiJae&descSize=30&descAlign=80&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hello&fontSize=90&fontAlign=65&fontAlignY=40&desc=I'm GiJae&descSize=30&descAlign=80&descAlignY=60)
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Unity-262626?style=flat&logo=Unity&logoColor=white" />
