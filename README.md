@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=Hello&fontSize=90&fontAlign=65&fontAlignY=40&desc=I'm%20Nam%20GiJae&descSize=30&descAlign=80&descAlignY=60)
+
 * * *
+
 
 <div align="center">
 	<h2>Studying</h2>
