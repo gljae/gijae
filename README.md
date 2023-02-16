@@ -18,6 +18,8 @@
 	<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
 </div>
 
+* * *
+
 <br> </br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skarlwo111)](https://solved.ac/skarlwo111)
